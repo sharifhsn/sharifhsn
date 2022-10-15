@@ -1,5 +1,5 @@
 # Sharif Haason @sharifhsn
-I am a 20-year-old computer science student at Rutgers University - New Brunswick. I am currently a junior and my graduation date is 2023.
+I am a 20-year-old computer science student at Rutgers University - New Brunswick. I am currently a senior and my graduation date is 2023.
 
 ## Work Experience
 For the summer of 2021, I am interning at Rutgers Newark SASN-IT as a developer. I document software, create utilities, and generally learn to understand the [Rutgers Newark website](https://sasn.rutgers.edu/) from a full-stack web developer perspective.
