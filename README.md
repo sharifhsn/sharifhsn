@@ -1,5 +1,5 @@
 # Sharif Haason @sharifhsn
-I am a 22-year-old master's in financial engineering student at Stevens Institute of Technology.
+I am a 23-year-old master's in financial engineering student at Stevens Institute of Technology.
 
 ## Education
 I graduated in 2024 from Rutgers University - New Brunswick with a bachelor's degree in computer science. I started my MFE in September 2024, and I've been studying topics like risk management, derivatives pricing (equity and fixed-income), and numerical computational methods for financial products.
